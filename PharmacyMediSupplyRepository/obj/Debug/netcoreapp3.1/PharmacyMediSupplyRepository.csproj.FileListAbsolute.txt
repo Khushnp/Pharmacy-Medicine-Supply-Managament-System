@@ -1,0 +1,13 @@
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\bin\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.deps.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\bin\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.runtimeconfig.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\bin\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.runtimeconfig.dev.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\bin\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\bin\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.pdb
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.AssemblyInfoInputs.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.AssemblyInfo.cs
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.csproj.CoreCompileInputs.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.pdb
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.genruntimeconfig.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\PharmacyMediSupplyRepository\obj\Debug\netcoreapp3.1\PharmacyMediSupplyRepository.csproj.AssemblyReference.cache

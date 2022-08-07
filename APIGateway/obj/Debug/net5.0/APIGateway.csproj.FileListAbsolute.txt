@@ -1,0 +1,136 @@
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\appsettings.json
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Ocelot.json
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.exe
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.deps.json
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.json
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.dev.json
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\ref\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.pdb
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.AssemblyReference.cache
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfoInputs.cache
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfo.cs
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\scopedcss\bundle\APIGateway.styles.css
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CopyComplete
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\ref\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.pdb
+D:\Cognizant\INTADM22DF042\S4\Day04\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.genruntimeconfig.cache
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\appsettings.json
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Ocelot.json
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.exe
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.deps.json
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.json
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.dev.json
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\ref\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.pdb
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.AssemblyReference.cache
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfoInputs.cache
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfo.cs
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\scopedcss\bundle\APIGateway.styles.css
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CopyComplete
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\ref\APIGateway.dll
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.pdb
+D:\Cognizant\INTADM22DF042\S4\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.genruntimeconfig.cache
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Ocelot.json
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.exe
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.deps.json
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.json
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.dev.json
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\ref\APIGateway.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\APIGateway.pdb
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfo.cs
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.xml
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\scopedcss\bundle\APIGateway.styles.css
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CopyComplete
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\ref\APIGateway.dll
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.pdb
+C:\Users\HP\Downloads\Days\S4-Day05\Day05\Institute Management using Microservices\APIGateway\obj\Debug\net5.0\APIGateway.genruntimeconfig.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\appsettings.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Ocelot.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\APIGateway.exe
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\APIGateway.deps.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.dev.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\APIGateway.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\ref\APIGateway.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\APIGateway.pdb
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\bin\Debug\net5.0\Ocelot.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.csproj.AssemblyReference.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfoInputs.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfo.cs
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\scopedcss\bundle\APIGateway.styles.css
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.RazorTargetAssemblyInfo.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CopyComplete
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\ref\APIGateway.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.pdb
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\APIGateway\obj\Debug\net5.0\APIGateway.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<PharmacyMediSupplyRepository.Models.Demand>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DemandId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DemandCount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DemandId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicineId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DemandCount)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { dmndId = item.DemandId }) |
+                    @Html.ActionLink("Details", "Details", new { dmndId = item.DemandId }) |
+                    @*@Html.ActionLink("Demands By Medicine", "GetDemandByMedicineId", new { medId = item.MedicineId }) |*@
+                    @Html.ActionLink("Delete", "Delete", new { dmndId = item.DemandId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

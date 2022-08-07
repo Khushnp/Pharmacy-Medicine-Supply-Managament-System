@@ -1,0 +1,107 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/MedicineStock",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 56497
+        }
+      ],
+      "UpstreamPathTemplate": "/MedicineStockSvc/"
+    },
+    {
+      "DownstreamPathTemplate": "/api/MedicineStock/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 56497
+        }
+      ],
+      "UpstreamPathTemplate": "/MedicineStockSvc/{everything}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/MedicalRepSchedule",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 45434
+        }
+      ],
+      "UpstreamPathTemplate": "/MedicalRepScheduleSvc/"
+    },
+    {
+      "DownstreamPathTemplate": "/api/MedicalRepSchedule/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 45434
+        }
+      ],
+      "UpstreamPathTemplate": "/MedicalRepScheduleSvc/{everything}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/MedicineSupply/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 63952
+        }
+      ],
+      "UpstreamPathTemplate": "/MedicineSupplySvc/"
+    },
+    {
+      "DownstreamPathTemplate": "/api/MedicineSupply/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 63952
+        }
+      ],
+      "UpstreamPathTemplate": "/MedicineSupplySvc/{everything}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/Demand",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 63952
+        }
+      ],
+      "UpstreamPathTemplate": "/DemandSvc/"
+    },
+    {
+      "DownstreamPathTemplate": "/api/Demand/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 63952
+        }
+      ],
+      "UpstreamPathTemplate": "/DemandSvc/{everything}"
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/Auth",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 30641
+        }
+      ],
+      "UpstreamPathTemplate": "/AuthSvc/"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:9000"
+  }
+}

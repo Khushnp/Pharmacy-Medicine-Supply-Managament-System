@@ -1,0 +1,62 @@
+﻿@model IEnumerable<MedicineRepScheduleRepository.Models.Schedule>
+
+@{
+    ViewData["Title"] = "SchedulesByMedicalRepresentor";
+}
+
+<h1>SchedulesByMediRep</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ScheduleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicalRepId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MeetingSlot)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfMeeting)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ScheduleId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicalRepId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DoctorId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicineId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MeetingSlot)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfMeeting)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

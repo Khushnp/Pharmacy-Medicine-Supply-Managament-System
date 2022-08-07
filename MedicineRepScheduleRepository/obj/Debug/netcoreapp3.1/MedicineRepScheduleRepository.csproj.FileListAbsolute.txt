@@ -1,0 +1,13 @@
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\bin\Debug\netcoreapp3.1\MedicineRepScheduleRepository.deps.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\bin\Debug\netcoreapp3.1\MedicineRepScheduleRepository.runtimeconfig.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\bin\Debug\netcoreapp3.1\MedicineRepScheduleRepository.runtimeconfig.dev.json
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\bin\Debug\netcoreapp3.1\MedicineRepScheduleRepository.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\bin\Debug\netcoreapp3.1\MedicineRepScheduleRepository.pdb
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.AssemblyInfoInputs.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.AssemblyInfo.cs
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.csproj.CoreCompileInputs.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.dll
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.pdb
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.genruntimeconfig.cache
+D:\_Cognizant (CTS) stuff\_Internship_Final_Project\_Project\PharmacyMediSupplyMaganmentSys\MedicineRepScheduleRepository\obj\Debug\netcoreapp3.1\MedicineRepScheduleRepository.csproj.AssemblyReference.cache

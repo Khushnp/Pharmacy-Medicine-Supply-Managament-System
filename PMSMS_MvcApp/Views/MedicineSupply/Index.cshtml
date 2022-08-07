@@ -1,0 +1,55 @@
+﻿@model IEnumerable<PharmacyMediSupplyRepository.Models.MedicineSupply>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineSupplyId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PharmacyId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DemandId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupplyCount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicineSupplyId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PharmacyId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DemandId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SupplyCount)
+                </td>
+                <td>
+                    @*@Html.ActionLink("Edit", "Edit", new { medsplyId = item.MedicineSupplyId }) |*@
+                    @Html.ActionLink("Details", "Details", new { medsplyId = item.MedicineSupplyId }) |
+                    @* @Html.ActionLink("Details by Pharmacy", "DetailsByPharmacy", new { PhrId = item.PharmacyId }) |*@
+                    @Html.ActionLink("Delete", "Delete", new { medsplyId = item.MedicineSupplyId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
